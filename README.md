@@ -1,1 +1,1 @@
-# dl-02-cnn
+# JavaScript Design Pattern
